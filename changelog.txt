@@ -1,0 +1,16 @@
+<h3 class="feature_card_title" style="text-align: center;">
+    <span class="highlight">Changelog - 0.01v</span>
+</h3>
+
+<h3 class="feature_card_title" style="font-size: 16px;"><span class="highlight">Optimization</span></h3>
+<p class="feature_card_desc" style="text-align: left; margin-bottom: -15px;">*Improved the obfuscation process to improve performance and stability.</p>
+
+<h3 class="feature_card_title" style="font-size: 16px;"><span class="highlight">Fixes</span></h3>
+<p class="feature_card_desc" style="text-align: left; margin-bottom: -15px;">+Fix: Fixed NearestPoint calculations for Pain Hood and ensured the cursor displays correctly.</p>
+
+<h3 class="feature_card_title" style="font-size: 16px;"><span class="highlight">New</span></h3>
+<p class="feature_card_desc" style="text-align: left;  margin-bottom: -30px;">+Added: Hood Customs support with full Anti-Aim Viewer compatibility.</p>
+<p class="feature_card_desc" style="text-align: left;  margin-bottom: -30px;">+Added: Hitbox modifier with cloud-config support.</p>
+<p class="feature_card_desc" style="text-align: left;  margin-bottom: -30px;">+Added: Performance Mode to the script.</p>
+<p class="feature_card_desc" style="text-align: left;  margin-bottom: -30px;">+Added: Text information display for FOVs.</p>
+<p class="feature_card_desc" style="text-align: left; margin-bottom: -15px;">+Added: Triggerbot functionality with cloud-config support.</p>
